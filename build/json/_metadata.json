@@ -1,0 +1,232 @@
+[
+  {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "cde7df1b63a5a0a8457b9953816a43137c36650e",
+    "edition": 1,
+    "date": 1635077627930,
+    "attributes": [
+      {
+        "trait_type": "faces",
+        "value": "face1"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "eyes3"
+      },
+      {
+        "trait_type": "mouths",
+        "value": "mouth3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "b085d26dcfd5fc29970ad531edb3141ce2430924",
+    "edition": 2,
+    "date": 1635077628028,
+    "attributes": [
+      {
+        "trait_type": "faces",
+        "value": "face6"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "eyes5"
+      },
+      {
+        "trait_type": "mouths",
+        "value": "mouth3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "d1dd44807bd012e8b6be3a2e0d128d2cf2629d37",
+    "edition": 3,
+    "date": 1635077628113,
+    "attributes": [
+      {
+        "trait_type": "faces",
+        "value": "face1"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "eyes6"
+      },
+      {
+        "trait_type": "mouths",
+        "value": "mouth1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "15347b6a9c3b5bccd7de6f017d9bbbf6a40a5e9d",
+    "edition": 4,
+    "date": 1635077628197,
+    "attributes": [
+      {
+        "trait_type": "faces",
+        "value": "face1"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "eyes2"
+      },
+      {
+        "trait_type": "mouths",
+        "value": "mouth3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "9f1e1eb40160a11919d8964f6228df76d94b3873",
+    "edition": 5,
+    "date": 1635077628286,
+    "attributes": [
+      {
+        "trait_type": "faces",
+        "value": "face5"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "eyes5"
+      },
+      {
+        "trait_type": "mouths",
+        "value": "mouth1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "d0d56768aa363864c8ebeda4151230c61db9ffff",
+    "edition": 6,
+    "date": 1635077628417,
+    "attributes": [
+      {
+        "trait_type": "faces",
+        "value": "face4"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "eyes3"
+      },
+      {
+        "trait_type": "mouths",
+        "value": "mouth6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "863d2bf21f6ed16fedab2e016f14bb5305d66688",
+    "edition": 7,
+    "date": 1635077628500,
+    "attributes": [
+      {
+        "trait_type": "faces",
+        "value": "face1"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "eyes6"
+      },
+      {
+        "trait_type": "mouths",
+        "value": "mouth3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "9ec539cea083a962886b5afc808b275d185f6a76",
+    "edition": 8,
+    "date": 1635077628582,
+    "attributes": [
+      {
+        "trait_type": "faces",
+        "value": "face2"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "eyes5"
+      },
+      {
+        "trait_type": "mouths",
+        "value": "mouth5"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "5d5d9f4df79121e72bb24b574c78dbf5638f54e4",
+    "edition": 9,
+    "date": 1635077628677,
+    "attributes": [
+      {
+        "trait_type": "faces",
+        "value": "face1"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "eyes5"
+      },
+      {
+        "trait_type": "mouths",
+        "value": "mouth2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "b5d6484ab0081701f6cd48d6b7999b1002423f82",
+    "edition": 10,
+    "date": 1635077628764,
+    "attributes": [
+      {
+        "trait_type": "faces",
+        "value": "face2"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "eyes5"
+      },
+      {
+        "trait_type": "mouths",
+        "value": "mouth1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "Your Collection #7",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/7.png",
+  "dna": "863d2bf21f6ed16fedab2e016f14bb5305d66688",
+  "edition": 7,
+  "date": 1635077628500,
+  "attributes": [
+    {
+      "trait_type": "faces",
+      "value": "face1"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes6"
+    },
+    {
+      "trait_type": "mouths",
+      "value": "mouth3"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

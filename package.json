@@ -1,7 +1,7 @@
 {
-  "name": "hashlips_art_engine",
+  "name": "funcky_emojis_nft",
   "version": "1.0.9",
-  "description": "HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.",
+  "description": "This project is a tool used to create multiple different instances of artworks based on provided layers.",
   "main": "index.js",
   "bin": "index.js",
   "pkg": {
